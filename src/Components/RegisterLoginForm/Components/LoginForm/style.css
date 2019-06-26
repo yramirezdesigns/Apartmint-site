@@ -1,0 +1,11 @@
+.loginForm {
+  pointer-events: none;
+  display: block; 
+ background-color: rgb(107, 202, 202);
+
+}
+.loginForm.in {
+  pointer-events: initial;
+ 
+}
+

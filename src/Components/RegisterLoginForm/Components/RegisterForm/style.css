@@ -1,0 +1,8 @@
+.registerForm {
+  pointer-events: none;
+  display: block;
+  background-color: rgb(107, 202, 202);
+}
+.registerForm.in {
+  pointer-events: initial;
+}
